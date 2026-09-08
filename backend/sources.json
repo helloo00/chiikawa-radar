@@ -1,0 +1,21 @@
+{
+  "_comment": "取得元。rss は Atom/RSS の URL、bluesky_queries は Bluesky 検索語。自由に追加・削除してよい。",
+  "rss": [
+    "https://chiikawamarket.jp/collections/all.atom",
+    "https://prtimes.jp/index.rdf"
+  ],
+  "rss_keyword_filter": ["ちいかわ", "チイカワ", "ナガノ", "ハチワレ"],
+  "rss_trusted_hosts": ["chiikawamarket.jp", "chiikawa-info.jp", "chiikawa.jp"],
+  "bluesky_queries": [
+    "ちいかわ 入荷",
+    "ちいかわ 再入荷",
+    "ちいかわ 買えた",
+    "ちいかわ 売ってた",
+    "ちいかわ ローソン",
+    "ちいかわ セブンイレブン",
+    "ちいかわ ファミマ",
+    "ちいかわ ロフト",
+    "ちいかわ 一番くじ",
+    "ちいかわ ポップアップ"
+  ]
+}

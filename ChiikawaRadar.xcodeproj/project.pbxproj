@@ -1,0 +1,343 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0412910FF51AB21CDBECD033 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53BFACF22BD98CA54003260B /* Assets.xcassets */; };
+		094ECE2515281095EDAAFADB /* ShopListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EAEEF7C27557C88536574A /* ShopListView.swift */; };
+		0AA058B93E3AAB7BA7D18F19 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D1377498DB72C42530B2AE /* Shop.swift */; };
+		17489EEE60A8A38363E4BC13 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F5996827AF93A0233549F3 /* LocationManager.swift */; };
+		24386FA5F6F5A6DE91E6AC5F /* CategoryFilterBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC39A29256E7ABA296E0383 /* CategoryFilterBar.swift */; };
+		2818277ADF0E186C87537B72 /* ShopDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8983FEF2CCB82238372EDB27 /* ShopDetailView.swift */; };
+		31ABBABE34370205D248CD71 /* MapScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE570FCB3DB7E250150665B5 /* MapScreen.swift */; };
+		3E6680DA5ED269DB2244FE88 /* NearbyStoresService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83611B72787E8AA3994098F1 /* NearbyStoresService.swift */; };
+		609AAC1376DE7B66FDC658A9 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ACD91343FD9E54909B399EB /* SettingsView.swift */; };
+		7653405CD9925A4870D9D0AA /* ProximityMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4699CF823772E9EAAF7D2190 /* ProximityMonitor.swift */; };
+		8FBB7CEBB878D8A531548ECE /* SightingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D254CE4906F5726F96AC6AF8 /* SightingsView.swift */; };
+		9887EB3BE66486D0B1B845EF /* Sighting.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF169C3932C2953B86CC9928 /* Sighting.swift */; };
+		9D03F83F3D865EF67160D23B /* sightings.sample.json in Resources */ = {isa = PBXBuildFile; fileRef = F35DD693F4D9813108F81B44 /* sightings.sample.json */; };
+		A26DF4C2665D3CAAB28A0919 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E223890A97A9E02ED8803AC4 /* RootView.swift */; };
+		A67C4E15A1C22F644C2DA5D0 /* ChiikawaRadarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D3A2AD84F40239A52D1151 /* ChiikawaRadarApp.swift */; };
+		AD9404E8F07FFF19DB506696 /* shops.json in Resources */ = {isa = PBXBuildFile; fileRef = A7F1B15D7A28435E27DB3D13 /* shops.json */; };
+		C7C0A6017DCD38710EF81D7F /* ShopRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E525AF672263C58D5A8D437 /* ShopRepository.swift */; };
+		CFA7C95915089CF8C5AD0BCA /* SightingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B63617082EBC407ECB3D2D84 /* SightingsService.swift */; };
+		D04AEC5CE496A768A5C7051A /* GeoMath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE09961E590CE06E5E45A90 /* GeoMath.swift */; };
+		F424FE5847456BD4D7F2CFF2 /* RadarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E312C488D24F609F8B501E33 /* RadarView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1FE09961E590CE06E5E45A90 /* GeoMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GeoMath.swift; path = Sources/Models/GeoMath.swift; sourceTree = "<group>"; };
+		43D3A2AD84F40239A52D1151 /* ChiikawaRadarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ChiikawaRadarApp.swift; path = Sources/ChiikawaRadarApp.swift; sourceTree = "<group>"; };
+		4699CF823772E9EAAF7D2190 /* ProximityMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ProximityMonitor.swift; path = Sources/Services/ProximityMonitor.swift; sourceTree = "<group>"; };
+		4ACD91343FD9E54909B399EB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsView.swift; path = Sources/Views/SettingsView.swift; sourceTree = "<group>"; };
+		53BFACF22BD98CA54003260B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		72EAEEF7C27557C88536574A /* ShopListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopListView.swift; path = Sources/Views/ShopListView.swift; sourceTree = "<group>"; };
+		7E525AF672263C58D5A8D437 /* ShopRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopRepository.swift; path = Sources/Services/ShopRepository.swift; sourceTree = "<group>"; };
+		83611B72787E8AA3994098F1 /* NearbyStoresService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NearbyStoresService.swift; path = Sources/Services/NearbyStoresService.swift; sourceTree = "<group>"; };
+		8983FEF2CCB82238372EDB27 /* ShopDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopDetailView.swift; path = Sources/Views/ShopDetailView.swift; sourceTree = "<group>"; };
+		A7F1B15D7A28435E27DB3D13 /* shops.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = shops.json; path = Resources/shops.json; sourceTree = "<group>"; };
+		A97C29AD63741CF438998CE6 /* ChiikawaRadar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChiikawaRadar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF169C3932C2953B86CC9928 /* Sighting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Sighting.swift; path = Sources/Models/Sighting.swift; sourceTree = "<group>"; };
+		B63617082EBC407ECB3D2D84 /* SightingsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SightingsService.swift; path = Sources/Services/SightingsService.swift; sourceTree = "<group>"; };
+		B6D1377498DB72C42530B2AE /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Shop.swift; path = Sources/Models/Shop.swift; sourceTree = "<group>"; };
+		D254CE4906F5726F96AC6AF8 /* SightingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SightingsView.swift; path = Sources/Views/SightingsView.swift; sourceTree = "<group>"; };
+		DFC39A29256E7ABA296E0383 /* CategoryFilterBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CategoryFilterBar.swift; path = Sources/Views/CategoryFilterBar.swift; sourceTree = "<group>"; };
+		E223890A97A9E02ED8803AC4 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RootView.swift; path = Sources/Views/RootView.swift; sourceTree = "<group>"; };
+		E312C488D24F609F8B501E33 /* RadarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RadarView.swift; path = Sources/Views/RadarView.swift; sourceTree = "<group>"; };
+		E5F5996827AF93A0233549F3 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LocationManager.swift; path = Sources/Services/LocationManager.swift; sourceTree = "<group>"; };
+		F35DD693F4D9813108F81B44 /* sightings.sample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = sightings.sample.json; path = Resources/sightings.sample.json; sourceTree = "<group>"; };
+		FE570FCB3DB7E250150665B5 /* MapScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MapScreen.swift; path = Sources/Views/MapScreen.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		29B2D46AA747A59804D46E1F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1849FC21AAEE98122148FC2B /* ChiikawaRadar */ = {
+			isa = PBXGroup;
+			children = (
+				43D3A2AD84F40239A52D1151 /* ChiikawaRadarApp.swift */,
+				1FE09961E590CE06E5E45A90 /* GeoMath.swift */,
+				B6D1377498DB72C42530B2AE /* Shop.swift */,
+				AF169C3932C2953B86CC9928 /* Sighting.swift */,
+				E5F5996827AF93A0233549F3 /* LocationManager.swift */,
+				83611B72787E8AA3994098F1 /* NearbyStoresService.swift */,
+				4699CF823772E9EAAF7D2190 /* ProximityMonitor.swift */,
+				7E525AF672263C58D5A8D437 /* ShopRepository.swift */,
+				B63617082EBC407ECB3D2D84 /* SightingsService.swift */,
+				DFC39A29256E7ABA296E0383 /* CategoryFilterBar.swift */,
+				FE570FCB3DB7E250150665B5 /* MapScreen.swift */,
+				E312C488D24F609F8B501E33 /* RadarView.swift */,
+				E223890A97A9E02ED8803AC4 /* RootView.swift */,
+				4ACD91343FD9E54909B399EB /* SettingsView.swift */,
+				8983FEF2CCB82238372EDB27 /* ShopDetailView.swift */,
+				72EAEEF7C27557C88536574A /* ShopListView.swift */,
+				D254CE4906F5726F96AC6AF8 /* SightingsView.swift */,
+				53BFACF22BD98CA54003260B /* Assets.xcassets */,
+				A7F1B15D7A28435E27DB3D13 /* shops.json */,
+				F35DD693F4D9813108F81B44 /* sightings.sample.json */,
+			);
+			name = ChiikawaRadar;
+			sourceTree = "<group>";
+		};
+		2B731CEFC6751AAE0EC69B98 = {
+			isa = PBXGroup;
+			children = (
+				1849FC21AAEE98122148FC2B /* ChiikawaRadar */,
+				BF7A2D27A78D590BDEF15AF2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BF7A2D27A78D590BDEF15AF2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A97C29AD63741CF438998CE6 /* ChiikawaRadar.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		42AEFBAE01D2DFD981F7DA7D /* ChiikawaRadar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DDC96F7C1D62EA89141E06E0 /* Build configuration list for PBXNativeTarget "ChiikawaRadar" */;
+			buildPhases = (
+				E7209FB05162B7572F88D05E /* Sources */,
+				29B2D46AA747A59804D46E1F /* Frameworks */,
+				66F8606E9F0A136E2228EBCB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ChiikawaRadar;
+			productName = ChiikawaRadar;
+			productReference = A97C29AD63741CF438998CE6 /* ChiikawaRadar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		46F86FAA6BBF9AC94A7E4595 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					42AEFBAE01D2DFD981F7DA7D = {
+						CreatedOnToolsVersion = 26.0;
+					};
+				};
+			};
+			buildConfigurationList = 4623F89214148A3820E2F59A /* Build configuration list for PBXProject "ChiikawaRadar" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ja,
+			);
+			mainGroup = 2B731CEFC6751AAE0EC69B98;
+			productRefGroup = BF7A2D27A78D590BDEF15AF2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				42AEFBAE01D2DFD981F7DA7D /* ChiikawaRadar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		66F8606E9F0A136E2228EBCB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0412910FF51AB21CDBECD033 /* Assets.xcassets in Resources */,
+				AD9404E8F07FFF19DB506696 /* shops.json in Resources */,
+				9D03F83F3D865EF67160D23B /* sightings.sample.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E7209FB05162B7572F88D05E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A67C4E15A1C22F644C2DA5D0 /* ChiikawaRadarApp.swift in Sources */,
+				D04AEC5CE496A768A5C7051A /* GeoMath.swift in Sources */,
+				0AA058B93E3AAB7BA7D18F19 /* Shop.swift in Sources */,
+				9887EB3BE66486D0B1B845EF /* Sighting.swift in Sources */,
+				17489EEE60A8A38363E4BC13 /* LocationManager.swift in Sources */,
+				3E6680DA5ED269DB2244FE88 /* NearbyStoresService.swift in Sources */,
+				7653405CD9925A4870D9D0AA /* ProximityMonitor.swift in Sources */,
+				C7C0A6017DCD38710EF81D7F /* ShopRepository.swift in Sources */,
+				CFA7C95915089CF8C5AD0BCA /* SightingsService.swift in Sources */,
+				24386FA5F6F5A6DE91E6AC5F /* CategoryFilterBar.swift in Sources */,
+				31ABBABE34370205D248CD71 /* MapScreen.swift in Sources */,
+				F424FE5847456BD4D7F2CFF2 /* RadarView.swift in Sources */,
+				A26DF4C2665D3CAAB28A0919 /* RootView.swift in Sources */,
+				609AAC1376DE7B66FDC658A9 /* SettingsView.swift in Sources */,
+				2818277ADF0E186C87537B72 /* ShopDetailView.swift in Sources */,
+				094ECE2515281095EDAAFADB /* ShopListView.swift in Sources */,
+				8FBB7CEBB878D8A531548ECE /* SightingsView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		17234DA728CB8FFFA593E13A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7H5FVA22Y6;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "ちいかわレーダー";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "取扱店に近づいたときに通知するため、位置情報を使います。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "近くのちいかわグッズ取扱店を探すために位置情報を使います。";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kentarotakeuchi.chiikawaradar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		339F2120A275E8028CC42767 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7H5FVA22Y6;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "ちいかわレーダー";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "取扱店に近づいたときに通知するため、位置情報を使います。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "近くのちいかわグッズ取扱店を探すために位置情報を使います。";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kentarotakeuchi.chiikawaradar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7BF40F069D95C38DE60AA602 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		EC86DC4F4B4C60C3EC031655 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4623F89214148A3820E2F59A /* Build configuration list for PBXProject "ChiikawaRadar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC86DC4F4B4C60C3EC031655 /* Debug */,
+				7BF40F069D95C38DE60AA602 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DDC96F7C1D62EA89141E06E0 /* Build configuration list for PBXNativeTarget "ChiikawaRadar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				339F2120A275E8028CC42767 /* Debug */,
+				17234DA728CB8FFFA593E13A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46F86FAA6BBF9AC94A7E4595 /* Project object */;
+}
