@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T00:18:26Z",
+ "generated_at": "2026-09-16T07:40:58Z",
  "items": [
   {
    "id": "965bf2b14a9f9c31",
@@ -312,6 +312,36 @@
    "date": "2026-09-11T09:52:39Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4571609406891",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.85
+  },
+  {
+   "id": "c1c72a71511d8ad3",
+   "type": "release",
+   "title": "ちいかわ ちいかわパーク ミニマスコットキーリング（おばけなうさぎ）",
+   "summary": "販売元: グレイ・パーカー・サービス タイプ: マスコット 価格: 1540 サイズ（約）：H105×W90×D55mm 材質： 本体：ポリエステル、ナイロン キーリング：亜鉛合金、鉄 製造地：中国",
+   "chain": null,
+   "area": null,
+   "itemName": "マスコット",
+   "date": "2026-09-11T09:52:36Z",
+   "sourceName": "ちいかわマーケット",
+   "sourceURL": "https://chiikawamarket.jp/products/4571609406860",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.85
+  },
+  {
+   "id": "bf86f9457fbb725b",
+   "type": "release",
+   "title": "ちいかわ ちいかわパーク カボチャなうさぎぬいぐるみS",
+   "summary": "販売元: グレイ・パーカー・サービス タイプ: ぬいぐるみ 価格: 2420 サイズ（約）：H230×W170×D140mm 材質：ポリエステル 製造地：中国",
+   "chain": null,
+   "area": null,
+   "itemName": "ぬいぐるみ",
+   "date": "2026-09-11T09:52:32Z",
+   "sourceName": "ちいかわマーケット",
+   "sourceURL": "https://chiikawamarket.jp/products/4571609406839",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
