@@ -1,0 +1,11 @@
+appId: com.kentarotakeuchi.chiikawaradar
+name: "地図タブのカテゴリチップが揃っているか"
+---
+- launchApp:
+    clearState: false
+- tapOn: "地図"
+- waitForAnimationToEnd
+- assertVisible: "常設店"
+- assertVisible: "取扱店"
+- assertVisible: "コンビニ"
+- takeScreenshot: map_default_view

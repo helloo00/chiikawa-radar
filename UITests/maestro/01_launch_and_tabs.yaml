@@ -1,0 +1,10 @@
+appId: com.kentarotakeuchi.chiikawaradar
+name: "起動して5タブが全部表示されるか"
+---
+- launchApp:
+    clearState: false
+- assertVisible: "レーダー"
+- assertVisible: "地図"
+- assertVisible: "一覧"
+- assertVisible: "情報"
+- assertVisible: "設定"

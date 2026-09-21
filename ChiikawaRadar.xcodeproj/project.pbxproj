@@ -9,14 +9,18 @@
 /* Begin PBXBuildFile section */
 		0412910FF51AB21CDBECD033 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53BFACF22BD98CA54003260B /* Assets.xcassets */; };
 		094ECE2515281095EDAAFADB /* ShopListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EAEEF7C27557C88536574A /* ShopListView.swift */; };
+		0984737CAA91256C6F7CB629 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D36E02B86AED69CB001FDCE4 /* XCTest.framework */; };
 		0AA058B93E3AAB7BA7D18F19 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6D1377498DB72C42530B2AE /* Shop.swift */; };
 		17489EEE60A8A38363E4BC13 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F5996827AF93A0233549F3 /* LocationManager.swift */; };
 		24386FA5F6F5A6DE91E6AC5F /* CategoryFilterBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC39A29256E7ABA296E0383 /* CategoryFilterBar.swift */; };
 		2818277ADF0E186C87537B72 /* ShopDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8983FEF2CCB82238372EDB27 /* ShopDetailView.swift */; };
 		31ABBABE34370205D248CD71 /* MapScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE570FCB3DB7E250150665B5 /* MapScreen.swift */; };
 		3E6680DA5ED269DB2244FE88 /* NearbyStoresService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83611B72787E8AA3994098F1 /* NearbyStoresService.swift */; };
+		4F14B9EBD4B42BFB6016FC45 /* GeoMathTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA68A9B1AC985E6D78AC318 /* GeoMathTests.swift */; };
 		609AAC1376DE7B66FDC658A9 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ACD91343FD9E54909B399EB /* SettingsView.swift */; };
 		7653405CD9925A4870D9D0AA /* ProximityMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4699CF823772E9EAAF7D2190 /* ProximityMonitor.swift */; };
+		7BCE41063E09C01D645EE267 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D36E02B86AED69CB001FDCE4 /* XCTest.framework */; };
+		80EBA5BD27F599CDFFD57BC2 /* ChiikawaRadarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E034FBE17A18BC6E642C769 /* ChiikawaRadarUITests.swift */; };
 		8FBB7CEBB878D8A531548ECE /* SightingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D254CE4906F5726F96AC6AF8 /* SightingsView.swift */; };
 		9887EB3BE66486D0B1B845EF /* Sighting.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF169C3932C2953B86CC9928 /* Sighting.swift */; };
 		9D03F83F3D865EF67160D23B /* sightings.sample.json in Resources */ = {isa = PBXBuildFile; fileRef = F35DD693F4D9813108F81B44 /* sightings.sample.json */; };
@@ -26,25 +30,53 @@
 		C7C0A6017DCD38710EF81D7F /* ShopRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E525AF672263C58D5A8D437 /* ShopRepository.swift */; };
 		CFA7C95915089CF8C5AD0BCA /* SightingsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B63617082EBC407ECB3D2D84 /* SightingsService.swift */; };
 		D04AEC5CE496A768A5C7051A /* GeoMath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE09961E590CE06E5E45A90 /* GeoMath.swift */; };
+		D67983A6FCA69369A4F631F3 /* SightingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2777926AF7BBA600C480A66F /* SightingTests.swift */; };
+		DCB04C9B15837C8F03B0EE21 /* ShopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C945C7C2A85E929753D1E5B /* ShopTests.swift */; };
+		F3D235B37334209FDF4590E6 /* ShopRepositoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B09535D26E076B2B76247B /* ShopRepositoryTests.swift */; };
 		F424FE5847456BD4D7F2CFF2 /* RadarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E312C488D24F609F8B501E33 /* RadarView.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		B14688DDDD511CA37F314907 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46F86FAA6BBF9AC94A7E4595 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 42AEFBAE01D2DFD981F7DA7D;
+			remoteInfo = ChiikawaRadar;
+		};
+		F329F699B1090480F150C66F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46F86FAA6BBF9AC94A7E4595 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 42AEFBAE01D2DFD981F7DA7D;
+			remoteInfo = ChiikawaRadar;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		1FE09961E590CE06E5E45A90 /* GeoMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GeoMath.swift; path = Sources/Models/GeoMath.swift; sourceTree = "<group>"; };
+		2777926AF7BBA600C480A66F /* SightingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SightingTests.swift; path = Tests/ChiikawaRadarTests/SightingTests.swift; sourceTree = "<group>"; };
 		43D3A2AD84F40239A52D1151 /* ChiikawaRadarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ChiikawaRadarApp.swift; path = Sources/ChiikawaRadarApp.swift; sourceTree = "<group>"; };
 		4699CF823772E9EAAF7D2190 /* ProximityMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ProximityMonitor.swift; path = Sources/Services/ProximityMonitor.swift; sourceTree = "<group>"; };
 		4ACD91343FD9E54909B399EB /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SettingsView.swift; path = Sources/Views/SettingsView.swift; sourceTree = "<group>"; };
+		4E034FBE17A18BC6E642C769 /* ChiikawaRadarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ChiikawaRadarUITests.swift; path = UITests/ChiikawaRadarUITests.swift; sourceTree = "<group>"; };
 		53BFACF22BD98CA54003260B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6BA68A9B1AC985E6D78AC318 /* GeoMathTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GeoMathTests.swift; path = Tests/ChiikawaRadarTests/GeoMathTests.swift; sourceTree = "<group>"; };
 		72EAEEF7C27557C88536574A /* ShopListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopListView.swift; path = Sources/Views/ShopListView.swift; sourceTree = "<group>"; };
+		77B09535D26E076B2B76247B /* ShopRepositoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopRepositoryTests.swift; path = Tests/ChiikawaRadarTests/ShopRepositoryTests.swift; sourceTree = "<group>"; };
+		7C945C7C2A85E929753D1E5B /* ShopTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopTests.swift; path = Tests/ChiikawaRadarTests/ShopTests.swift; sourceTree = "<group>"; };
 		7E525AF672263C58D5A8D437 /* ShopRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopRepository.swift; path = Sources/Services/ShopRepository.swift; sourceTree = "<group>"; };
 		83611B72787E8AA3994098F1 /* NearbyStoresService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NearbyStoresService.swift; path = Sources/Services/NearbyStoresService.swift; sourceTree = "<group>"; };
+		86DD7FE3B06B0CE1D891372D /* ChiikawaRadarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChiikawaRadarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8983FEF2CCB82238372EDB27 /* ShopDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ShopDetailView.swift; path = Sources/Views/ShopDetailView.swift; sourceTree = "<group>"; };
+		9D387ED512D4D038770B273E /* ChiikawaRadarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChiikawaRadarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7F1B15D7A28435E27DB3D13 /* shops.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = shops.json; path = Resources/shops.json; sourceTree = "<group>"; };
 		A97C29AD63741CF438998CE6 /* ChiikawaRadar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChiikawaRadar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF169C3932C2953B86CC9928 /* Sighting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Sighting.swift; path = Sources/Models/Sighting.swift; sourceTree = "<group>"; };
 		B63617082EBC407ECB3D2D84 /* SightingsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SightingsService.swift; path = Sources/Services/SightingsService.swift; sourceTree = "<group>"; };
 		B6D1377498DB72C42530B2AE /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Shop.swift; path = Sources/Models/Shop.swift; sourceTree = "<group>"; };
 		D254CE4906F5726F96AC6AF8 /* SightingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SightingsView.swift; path = Sources/Views/SightingsView.swift; sourceTree = "<group>"; };
+		D36E02B86AED69CB001FDCE4 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		DFC39A29256E7ABA296E0383 /* CategoryFilterBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CategoryFilterBar.swift; path = Sources/Views/CategoryFilterBar.swift; sourceTree = "<group>"; };
 		E223890A97A9E02ED8803AC4 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RootView.swift; path = Sources/Views/RootView.swift; sourceTree = "<group>"; };
 		E312C488D24F609F8B501E33 /* RadarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RadarView.swift; path = Sources/Views/RadarView.swift; sourceTree = "<group>"; };
@@ -54,6 +86,14 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		0FB0CFE0FB49AD750AEFB826 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7BCE41063E09C01D645EE267 /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		29B2D46AA747A59804D46E1F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -61,9 +101,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EEECB0C2A817D2AC070F608F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0984737CAA91256C6F7CB629 /* XCTest.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		175C932161BEBF3B8BB1F58C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D36E02B86AED69CB001FDCE4 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		1849FC21AAEE98122148FC2B /* ChiikawaRadar */ = {
 			isa = PBXGroup;
 			children = (
@@ -95,14 +151,38 @@
 			isa = PBXGroup;
 			children = (
 				1849FC21AAEE98122148FC2B /* ChiikawaRadar */,
+				725AC6A875EC554842C770F6 /* ChiikawaRadarUITests */,
+				BD839D94EF8E66100A73DF3B /* ChiikawaRadarTests */,
+				175C932161BEBF3B8BB1F58C /* Frameworks */,
 				BF7A2D27A78D590BDEF15AF2 /* Products */,
 			);
+			sourceTree = "<group>";
+		};
+		725AC6A875EC554842C770F6 /* ChiikawaRadarUITests */ = {
+			isa = PBXGroup;
+			children = (
+				4E034FBE17A18BC6E642C769 /* ChiikawaRadarUITests.swift */,
+			);
+			name = ChiikawaRadarUITests;
+			sourceTree = "<group>";
+		};
+		BD839D94EF8E66100A73DF3B /* ChiikawaRadarTests */ = {
+			isa = PBXGroup;
+			children = (
+				6BA68A9B1AC985E6D78AC318 /* GeoMathTests.swift */,
+				7C945C7C2A85E929753D1E5B /* ShopTests.swift */,
+				2777926AF7BBA600C480A66F /* SightingTests.swift */,
+				77B09535D26E076B2B76247B /* ShopRepositoryTests.swift */,
+			);
+			name = ChiikawaRadarTests;
 			sourceTree = "<group>";
 		};
 		BF7A2D27A78D590BDEF15AF2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				A97C29AD63741CF438998CE6 /* ChiikawaRadar.app */,
+				9D387ED512D4D038770B273E /* ChiikawaRadarUITests.xctest */,
+				86DD7FE3B06B0CE1D891372D /* ChiikawaRadarTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -127,6 +207,42 @@
 			productReference = A97C29AD63741CF438998CE6 /* ChiikawaRadar.app */;
 			productType = "com.apple.product-type.application";
 		};
+		840D47E4DA74F388E13089FF /* ChiikawaRadarUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1846D7C44BA281D90C75E854 /* Build configuration list for PBXNativeTarget "ChiikawaRadarUITests" */;
+			buildPhases = (
+				BA3A70D54D131C3362FE3341 /* Sources */,
+				0FB0CFE0FB49AD750AEFB826 /* Frameworks */,
+				B24B084303C11CC55F996A88 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DFEA1EF244E8CC92E9C45535 /* PBXTargetDependency */,
+			);
+			name = ChiikawaRadarUITests;
+			productName = ChiikawaRadarUITests;
+			productReference = 9D387ED512D4D038770B273E /* ChiikawaRadarUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		F1BED83F28D449A9FFB407A3 /* ChiikawaRadarTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 430F8D1AB06BFB367F4CF927 /* Build configuration list for PBXNativeTarget "ChiikawaRadarTests" */;
+			buildPhases = (
+				E5FD6746612E5041D37BD26C /* Sources */,
+				EEECB0C2A817D2AC070F608F /* Frameworks */,
+				B1F863CD53B188F066CE74B6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CFC0B659F768B9C7F97A7BC9 /* PBXTargetDependency */,
+			);
+			name = ChiikawaRadarTests;
+			productName = ChiikawaRadarTests;
+			productReference = 86DD7FE3B06B0CE1D891372D /* ChiikawaRadarTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -139,6 +255,14 @@
 				TargetAttributes = {
 					42AEFBAE01D2DFD981F7DA7D = {
 						CreatedOnToolsVersion = 26.0;
+					};
+					840D47E4DA74F388E13089FF = {
+						CreatedOnToolsVersion = 26.0;
+						TestTargetID = 42AEFBAE01D2DFD981F7DA7D;
+					};
+					F1BED83F28D449A9FFB407A3 = {
+						CreatedOnToolsVersion = 26.0;
+						TestTargetID = 42AEFBAE01D2DFD981F7DA7D;
 					};
 				};
 			};
@@ -157,6 +281,8 @@
 			projectRoot = "";
 			targets = (
 				42AEFBAE01D2DFD981F7DA7D /* ChiikawaRadar */,
+				840D47E4DA74F388E13089FF /* ChiikawaRadarUITests */,
+				F1BED83F28D449A9FFB407A3 /* ChiikawaRadarTests */,
 			);
 		};
 /* End PBXProject section */
@@ -172,9 +298,42 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B1F863CD53B188F066CE74B6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B24B084303C11CC55F996A88 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		BA3A70D54D131C3362FE3341 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				80EBA5BD27F599CDFFD57BC2 /* ChiikawaRadarUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E5FD6746612E5041D37BD26C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F14B9EBD4B42BFB6016FC45 /* GeoMathTests.swift in Sources */,
+				DCB04C9B15837C8F03B0EE21 /* ShopTests.swift in Sources */,
+				D67983A6FCA69369A4F631F3 /* SightingTests.swift in Sources */,
+				F3D235B37334209FDF4590E6 /* ShopRepositoryTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		E7209FB05162B7572F88D05E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -201,6 +360,19 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		CFC0B659F768B9C7F97A7BC9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 42AEFBAE01D2DFD981F7DA7D /* ChiikawaRadar */;
+			targetProxy = F329F699B1090480F150C66F /* PBXContainerItemProxy */;
+		};
+		DFEA1EF244E8CC92E9C45535 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 42AEFBAE01D2DFD981F7DA7D /* ChiikawaRadar */;
+			targetProxy = B14688DDDD511CA37F314907 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
 		17234DA728CB8FFFA593E13A /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -225,6 +397,50 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		25EC6201C50FBE765E3A5A1D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kentarotakeuchi.chiikawaradar.Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ChiikawaRadar.app/ChiikawaRadar";
+			};
+			name = Debug;
+		};
+		28EE689B9038045C52DE3ED1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kentarotakeuchi.chiikawaradar.Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ChiikawaRadar.app/ChiikawaRadar";
 			};
 			name = Release;
 		};
@@ -283,6 +499,26 @@
 			};
 			name = Release;
 		};
+		C2159DFBDBB515101835F59E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kentarotakeuchi.chiikawaradar.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ChiikawaRadar;
+			};
+			name = Debug;
+		};
 		EC86DC4F4B4C60C3EC031655 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -316,9 +552,47 @@
 			};
 			name = Debug;
 		};
+		F6C0ECAE518C234FFDAEA64A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kentarotakeuchi.chiikawaradar.UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ChiikawaRadar;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		1846D7C44BA281D90C75E854 /* Build configuration list for PBXNativeTarget "ChiikawaRadarUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C2159DFBDBB515101835F59E /* Debug */,
+				F6C0ECAE518C234FFDAEA64A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		430F8D1AB06BFB367F4CF927 /* Build configuration list for PBXNativeTarget "ChiikawaRadarTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25EC6201C50FBE765E3A5A1D /* Debug */,
+				28EE689B9038045C52DE3ED1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4623F89214148A3820E2F59A /* Build configuration list for PBXProject "ChiikawaRadar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

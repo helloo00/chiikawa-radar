@@ -1,0 +1,12 @@
+appId: com.kentarotakeuchi.chiikawaradar
+name: "情報タブを開いて更新できるか"
+---
+- launchApp:
+    clearState: false
+- tapOn: "情報"
+- waitForAnimationToEnd
+- swipe:
+    direction: DOWN
+    duration: 300
+- waitForAnimationToEnd
+- takeScreenshot: sightings_after_refresh

@@ -1,0 +1,11 @@
+appId: com.kentarotakeuchi.chiikawaradar
+name: "設定画面の情報フィードセクションまでスクロールできるか"
+---
+- launchApp:
+    clearState: false
+- tapOn: "設定"
+- scrollUntilVisible:
+    element: "今すぐ更新"
+    direction: DOWN
+- assertVisible: "今すぐ更新"
+- assertVisible: "情報フィード（目撃・入荷・発売）"
