@@ -1,6 +1,51 @@
 {
- "generated_at": "2026-09-23T13:37:41Z",
+ "generated_at": "2026-09-23T18:23:42Z",
  "items": [
+  {
+   "id": "54a27d04592a8886",
+   "type": "news",
+   "title": "Intertoy(オランダの大手玩具屋さん）にちいかわのぬいぐるみとキーチェーンが売っていた。ちいかわはまだオランダに入ってきてないと思ってたけどついに入ってきたか。",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "ぬいぐるみ",
+   "date": "2026-09-23T17:54:36Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:avqxfdtu3owd5hk2vjnviagd/post/3mw7cqmscrc2r",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "5984ade48985b5ee",
+   "type": "event",
+   "title": "ちいかわベーカリー OKINAWA POP UP SHOP   2026年10月1日(木)～10月12日(月)  デパートリウボウ (沖縄県那覇市久茂地)  黒糖味の限定ちいかわ食パン登場 大人気のマスコットやオリジナルパン＆グッズが集結 初日はデジタル整理券での案内を実施 f…",
+   "summary": null,
+   "chain": null,
+   "area": "那覇",
+   "itemName": "マスコット",
+   "date": "2026-09-23T17:28:41Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:yujxbp65uy3vv4sanl6xr2do/post/3mw7bcbqggc2h",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "432a7fcfa5614292",
+   "type": "event",
+   "title": "ちいかわのシーサーちゃんの喋り方を脳内再生する時、微妙にネウロのデイビッド・ライスもポップアップしてくるな",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-09-23T14:47:25Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:p4tuyz3afntdyc2g2hdgllfw/post/3mw6ybvuuds25",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "fa8ec90e9bf11040",
    "type": "kuji",
@@ -2955,51 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.6
-  },
-  {
-   "id": "504e559bd4568c23",
-   "type": "news",
-   "title": "ちいかわ映画の入場特典の小冊子、ナガノ先生のむちゃうま日記描き下ろしはなんだろう、煮付け(セブンイレブン)か・・・？",
-   "summary": null,
-   "chain": "セブン-イレブン",
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-14T06:25:15Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:qccellntbjhrsxojc6tb6f6c/post/3mvhhzoh23s2b",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
-  },
-  {
-   "id": "6c170f3a85b56a64",
-   "type": "news",
-   "title": "予約は今日までか…  chiikawamarket.jp/collections/...",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-14T00:03:28Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:syumnrmk7l44qyqdhylzfefv/post/3mvgsoystdk25",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "be849597fbe9dbb2",
-   "type": "news",
-   "title": "14日正午まで予約受け付けてるのを発見して、抗えなかった  chiikawamarket.jp/collections/...",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-13T15:41:07Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:zjn52qa5bvrytgxaeiavpsgh/post/3mvfwmptnt22n",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
   }
  ]
 }
