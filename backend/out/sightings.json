@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-25T18:35:28Z",
+ "generated_at": "2026-09-25T23:17:48Z",
  "items": [
+  {
+   "id": "f8b73d925371fd3a",
+   "type": "sighting",
+   "title": "ちいかわのボンドロまだ売ってたら買ってきて欲しい🥺",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-09-25T22:15:41Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:tt57hrv747cmc6qvtabu7qwi/post/3mwesbcuics2i",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "95067da6c2717d98",
    "type": "event",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-18T02:02:45Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4571609403852",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "f4ec0eeb9636b8b5",
-   "type": "release",
-   "title": "ちいかわ トレーディングミニミラーキーホルダー（全8種）",
-   "summary": "販売元: グレイ・パーカー・サービス タイプ: キーホルダー 価格: 770 - 6160 (2 variants) 外出先でも ビジュ死守チェック🎀 一緒にピースで ツーショなミラー✌ サイズ（約）： 本体：H83×W61mm BOX：H115×W90×D85mm 材質：アクリル、ステンレス 製造地：中国 ※単品はランダム仕様となっており、種類はお選びいただけません。 ※単品はランダム封入のため複数ご購入の場合、同じ種類が出たり、ご希望の種類が出ない場合もございます。 ※BOXをご購入いただいても、全種類全種がそろわない場合もございます。ご了承ください。 ※1BOX 8個入り（全8種）",
-   "chain": null,
-   "area": null,
-   "itemName": "キーホルダー / グミ",
-   "date": "2026-09-18T02:02:43Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4571609392071",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
