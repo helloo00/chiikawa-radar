@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-24T21:29:59Z",
+ "generated_at": "2026-09-25T00:32:47Z",
  "items": [
+  {
+   "id": "4c7823ae34e4a385",
+   "type": "restock",
+   "title": "少し前に某所で強くなったハチワレのぬいぐるみを法外な値段で売ってるのを見かけたけど､アニメ放送に合わせて関連商品再販が来たのはよかったな x.com/chiikawa_mar...",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "ぬいぐるみ",
+   "date": "2026-09-24T23:11:58Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:e5pjp37grzsjmoq22xudmluv/post/3mwcewzrwac2p",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "122e0cce4501be8b",
    "type": "news",
@@ -2985,21 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "77bd70bfd5955e3b",
-   "type": "news",
-   "title": "え〜？なんかセブンイレブンのアプリでマイルとかいうのめっちゃ貯まってたから それ使って東宝の映画見る権と交換できそう？！ つまりまたちいかわの映画、見てもいい…ってコト？！ だったら第5弾のひみつ本貰いに行ってもいいすか…？！？",
-   "summary": null,
-   "chain": "セブン-イレブン",
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-15T10:30:06Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:mnwboypq3tzb7zx7yrs2fzny/post/3mvkg6gd3522i",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
