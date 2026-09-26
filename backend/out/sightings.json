@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-26T16:22:36Z",
+ "generated_at": "2026-09-26T21:09:00Z",
  "items": [
+  {
+   "id": "fd7d0d9f7b8d5525",
+   "type": "news",
+   "title": "ちいかわの仮装ぬいが中々買えない🫠",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-09-26T17:31:42Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:hehymb7trlohc27vhj4qlczb/post/3mwgsugevzk27",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "fe85eb9ec6fd10b5",
    "type": "event",
@@ -2985,21 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "c0dee4da9ea14685",
-   "type": "news",
-   "title": "そしてこの前ロフトの抽選当たったボンドロ届いた！わーいちいかわボンドロだ！✨️シャカシャカシールたちは女児でなくても心が欲しいと騒ぐ☺️",
-   "summary": null,
-   "chain": "ロフト",
-   "area": null,
-   "itemName": "シール",
-   "date": "2026-09-18T11:27:57Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:tniw23yonrlrvligoih72yse/post/3mvs2snmrx22a",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
