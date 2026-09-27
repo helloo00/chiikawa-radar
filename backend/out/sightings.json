@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-26T21:09:00Z",
+ "generated_at": "2026-09-27T00:35:02Z",
  "items": [
+  {
+   "id": "3764c525b7dc9256",
+   "type": "news",
+   "title": "ファミマ限定「ちいかわ わっふれ～む3」を食べてみた！ハチワレやうさぎのイラストをプリントしたワッフルとシール",
+   "summary": null,
+   "chain": "ファミリーマート",
+   "area": null,
+   "itemName": "シール",
+   "date": "2026-09-27T00:31:52Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:bdqzjijw6uqfs7tdyvfjladq/post/3mwhkdr3yxw2z",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.6
+  },
   {
    "id": "fd7d0d9f7b8d5525",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-18T12:37:38Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:c3lg6tik2vtz6f4uz6j4pdzw/post/3mvs6paekqs27",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "a8e4264926cafb81",
-   "type": "sighting",
-   "title": "売切れシールの貼り方見る限り絶対ありそうなのに先週は無いと即答された映画ちいかわﾎﾟﾌﾟｺｰﾝバケット買えたー！🤩  ﾜｧ、最後の2個です…！って言われたし、先週探しもせず無いって即答したスタッフを許せなくなるところだったー 買えたのでヨシ🥳",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": "シール",
-   "date": "2026-09-18T11:40:26Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:jchfyonrabx2st6w64dpxsmw/post/3mvs3ixcfns2n",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
