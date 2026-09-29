@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-28T20:33:04Z",
+ "generated_at": "2026-09-29T01:56:10Z",
  "items": [
+  {
+   "id": "54fad6cd3d69d02b",
+   "type": "release",
+   "title": "ツイッタァのおすすめ欄、ちいかわの割合が多くなったからネガティブ意見も流れてくるようになり ぱ〜くのハログッズはweb販売あるなし問題とかはたしかに同時に発表してればよかったなと思ったりするけど  らんどのハロマスコット(プライズと同じデザインのやつ)に関しては事前受注販売があ…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "マスコット",
+   "date": "2026-09-29T01:15:42Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:dece35pfnzb6ydnimihtwlwn/post/3mwmnpyftz22a",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "2d79a53beb884939",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-19T15:01:37Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:vroa7q5k7sflvwow5mzdfcvt/post/3mvux7mj7tk2y",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "a844a9bbbd226465",
-   "type": "news",
-   "title": "給藍天上的吉伊粉：吉伊御守悠遊卡9/30販售  x.com/TWChiikawa/s...",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-19T14:41:24Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:w5qcjab3kcspuvx7bku4oyox/post/3mvuw3ie3n22k",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
