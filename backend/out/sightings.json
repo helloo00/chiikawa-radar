@@ -1,6 +1,51 @@
 {
- "generated_at": "2026-09-29T22:13:47Z",
+ "generated_at": "2026-09-30T01:18:02Z",
  "items": [
+  {
+   "id": "cb5f94dc7a4da952",
+   "type": "event",
+   "title": "今日はお仕事…9月最後のお仕事…  駅ビルでちいかわのポップアップストアが今日からだそうで…朝から人がめっちゃ並んでた… ちょっと気になり始めた…仕事終わりに見てみようか…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-09-30T00:27:26Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:fn27imqyo6p6vawal6e4rv6c/post/3mwp3ilyykc2t",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "00b2af939dcc954f",
+   "type": "kuji",
+   "title": "最近作ったチャーム キャラパキのさすまたと びっくらたまごのマスコット  ２個買ったびっくらたまごはどちらも🦀🦀ちゃんでした！  ２個揃ってるならピアスにしても可愛かったか🦀🦀？  先日の攻殻機動隊一番くじのステッカーセットの台紙を敷いて撮ると魔法少女のような🦀🦀ちゃんになりま…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "マスコット / 一番くじ",
+   "date": "2026-09-29T23:49:09Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:vmfnd67egrwgoklcyuaajn3k/post/3mwoze55i4k2t",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "c9a60f54d65d9a50",
+   "type": "event",
+   "title": "ちいかわベーカリー沖縄でポップアップやるみたいだけど行く一週間前で終わるようで残念",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-09-29T22:52:11Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:2s5t4qydkpejrhgqyhowgh45/post/3mwow6biamc2p",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "51db2cca94025012",
    "type": "news",
@@ -2955,51 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.6
-  },
-  {
-   "id": "d9ddb940392dce4e",
-   "type": "news",
-   "title": "映画ちいかわのパンフレット売ってるの知らなくて、目の前でお姉さんが買ってて衝動で自分も買ってしまった まさか買えるとは思ってなかった😊",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-20T15:21:27Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:ycju2hjbo7sx3akq2hj7k67d/post/3mvxirypilk2h",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "05d06fa92ff27946",
-   "type": "release",
-   "title": "「GU」×「ちいかわ」コラボアイテム発売に14万いいねの大反響 SNS「ハチワレに包まれたい」「買えますように」 | オトナンサー  https://www.walknews.com/1386056/  \r \r \r \r \r \r \r \r \r \r \r \r \r \r \r \r \r \r  …",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-20T14:48:12Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:jr7i36any7dw5seaoo6337qd/post/3mvxgwnl3l222",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "5847913c51037119",
-   "type": "news",
-   "title": "ちいかわファンではないけれど、ちいかわスイーツのプリン風シュークリームとプリン風エクレアを西友で見かけたのが今更気になって仕方ない。 　土砂降りになる前に買いに行くべきだったか。 　台風コロッケも用意してないしね。 news.yahoo.co.jp/expert/artic...",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-20T13:54:11Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:o4jourlem25kvf3oz65uodrz/post/3mvxdvxic3k2v",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
   }
  ]
 }
