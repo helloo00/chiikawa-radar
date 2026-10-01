@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-09-30T22:14:08Z",
+ "generated_at": "2026-10-01T01:18:03Z",
  "items": [
+  {
+   "id": "ee8f5e74b90012e9",
+   "type": "release",
+   "title": "デカワレ届くの楽しみ🐱 人気商品は全部受注生産にしちゃえば本当に欲しい人みんな買えるのになぁ 転売ヤー滅だわ(՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷̥᷅⸝⸝՞)滅  ＃ちいかわ ＃ちいかわマーケット ＃パラレルワールド ＃デカワレ ＃ハチワレ",
+   "summary": null,
+   "chain": "ちいかわらんど",
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-01T00:37:47Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:rht2yg3ju44yafx4ffqbrf2e/post/3mwrmjyxlxc2o",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.6
+  },
   {
    "id": "c0c71361ddd14dc9",
    "type": "release",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-21T15:35:20Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:crzwhdkwemhaumfhzjjuarem/post/3mvzzzrfusk2v",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
-  },
-  {
-   "id": "f2f14ec345adc759",
-   "type": "news",
-   "title": "今日は、ちいかわぬいぱれっとミルクいろのくりまんじゅうをゲットしました！ 久々にちょっと離れたところにあるローソンに行ってみたらまだ残っていたので、プレイしてみたら二回で取ることができました！ 昨日、最後の一個だからとあのこのぬいぐるみを取ろうとして散財したばかりなので、なんだ…",
-   "summary": null,
-   "chain": "ローソン",
-   "area": null,
-   "itemName": "ぬいぐるみ",
-   "date": "2026-09-21T14:35:37Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:x5dtwiuf2w2oqb7t6mwhavxj/post/3mvzwoy7msc2x",
    "latitude": null,
    "longitude": null,
    "confidence": 0.6
