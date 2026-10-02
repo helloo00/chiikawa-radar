@@ -1,6 +1,51 @@
 {
- "generated_at": "2026-10-02T12:32:29Z",
+ "generated_at": "2026-10-02T19:17:19Z",
  "items": [
+  {
+   "id": "0941e1110a3f0791",
+   "type": "news",
+   "title": "そしてこちらは職場の人に頂いたちいかわ。 メモ帳は狙って買えるらしい。 知らなかった商品とか人に頂くの、このコンテンツの広さを感じるよね。 嬉しい💕",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-02T16:51:22Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:byistwl7p3jo7jw62xbfonfo/post/3mwvtftkalc2q",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "fa095d04997d8fc6",
+   "type": "news",
+   "title": "ちいかわ、ぬいがたくさん出てるけど買えるやつ少なくない…！？(在庫的な意味で)になっている",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-02T15:53:15Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:7xbdc7wyeyzbdm4jsil2wcy6/post/3mwvq5zekjjn2",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "6e5c3e2c8b9b428d",
+   "type": "news",
+   "title": "ちいかわ焼きとか山下本気うどんとか気になるけど絶対人多いだろうな　マリーアントワネットもどうするか悩んでチケット買えてない…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-02T12:37:16Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:pssgvi53uoihelhu3g5l3ykk/post/3mwvf7hvjx22a",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "2ed11750421a4054",
    "type": "news",
@@ -2955,51 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "50c2d333450b23a5",
-   "type": "release",
-   "title": "今日発売のちいかわの欲しかったもの買えなくて結構落ち込んでるので…… 今日は飲みます😂🍺💦 まあ金曜日はだいたい飲んでるんですけどね🤣🤣 今日はいつもよりちょっとヤケ酒寄り😂🍺 ……あ、でも20時からフィナーレ始まるから火消ししようと思ってたんだった😂🔥 酔ったらプロセカ叩けな…",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-25T07:35:51Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:ghun5kriwxl4sr7iouvoa3vi/post/3mwdb42eiqc22",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "c89e0bd6a0754339",
-   "type": "news",
-   "title": "ちいかわマーケット平日午後までスマホさわれない民だと新商品は売り切れで毎回ほぼ買えない…メルカリには大量にあるのにさ",
-   "summary": null,
-   "chain": "ちいかわらんど",
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-25T07:24:47Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:szmhpdmzlqmstnl7mikj2acl/post/3mwdaibbpic2l",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
-  },
-  {
-   "id": "f7cc193e85bf6858",
-   "type": "sighting",
-   "title": "ちいかわマーケット、11時ピッタリにページ飛んで商品追加して決済に飛んだら5分待ちとかで、それでも普通に買えたからこんなもんか～って思ってたんだけどXでの阿鼻叫喚見てるともしかしてだいぶ運が良かった感じか？",
-   "summary": null,
-   "chain": "ちいかわらんど",
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-25T06:51:57Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:geckqo5gyexigwu6wn4ye7fx/post/3mwd6nkcsws2i",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
