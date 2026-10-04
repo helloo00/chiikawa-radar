@@ -1,6 +1,51 @@
 {
- "generated_at": "2026-10-04T05:50:54Z",
+ "generated_at": "2026-10-04T12:19:37Z",
  "items": [
+  {
+   "id": "f77db827432bb1cd",
+   "type": "kuji",
+   "title": "お姉ちゃんが友達からカニ味噌瓶もろて、結果お父ちゃま以外生臭さに敗北してお父ちゃまに食べさせてるけど毎度出す時ちいかわ一番くじのカニちゃんの小皿に盛ってるからなんか…ふふ、カニちゃんの脳みそみたいでなんともいえない気持ちになるよ お皿を洗い終えたから偉い。歯磨きしてお風呂入ろね",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "一番くじ",
+   "date": "2026-10-04T10:53:43Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:dihnpeun4apqy6qbt4ob7ec6/post/3mx2ae5gyyc25",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "6813c6c33fd6f4c9",
+   "type": "event",
+   "title": "ちいかわポップアップがロンドンに来てるらしい！知らんかった",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-04T10:11:34Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:zkhorjeq4e5ltznbw4bsfn64/post/3mx25ys37rk2t",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "71ec260baceb5c12",
+   "type": "news",
+   "title": "ダイソー110円のちいかわのバッジ、680円で売ってる悪魔😈",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-04T08:22:35Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:i3bilkhw2vfutwxowohhz2gw/post/3mwzxvvvsuc2p",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "c17cb7e91bc252e6",
    "type": "sighting",
@@ -2955,51 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "9f1551b023f9a6f6",
-   "type": "event",
-   "title": "昨日たまたま行ったデパートで、ちいかわのポップアップストアやってた。 Ｔシャツ買おうかどうか悩んだけど、今家にある、ちいかわのＴシャツが洗濯でプリントはげてきてるのが悲しくて何も買わずに出てきてしまった。",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-25T12:59:00Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:ytk5yidt23szkzdymkjm6s7y/post/3mwdt5v55ks27",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "82db81c9d20faa96",
-   "type": "news",
-   "title": "オタク今新鮮な悲鳴あげてるね！これがちいかわだ……！何も知らない子供が泣いてるのはかわいそうだが！ 海外でもグッズ売っててもうすでに結構な人気でびっくりやね……！いつの間に！？ 映画はすごいよかったが話知っててもこころはしんどい展開なのでご無理なさらず！ 萌えもつらみも耳から流…",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-25T12:43:41Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:x4z6ky6ccwbxnhszocshuuwm/post/3mwdscize2k2p",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "9334b19acf179420",
-   "type": "news",
-   "title": "ちいかわのスムージーがある…… セブンイレブン、久しぶりにくるといろいろ新しいものと出会えるな",
-   "summary": null,
-   "chain": "セブン-イレブン",
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-25T11:04:19Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:qbqamswanox3ptkwgvdkyx2i/post/3mwdmqsnp5c2z",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
