@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-04T12:19:37Z",
+ "generated_at": "2026-10-04T18:09:13Z",
  "items": [
+  {
+   "id": "db21a1da508e31b4",
+   "type": "sighting",
+   "title": "ムビモンガタノゾーア、売ってたら買いてぇんだよーーーーー  ちいかわモモンガのあの画像",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-04T13:46:05Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:i4o5ezlanwv3amtgu4ueyyl4/post/3mx2jyec7lc2j",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "f77db827432bb1cd",
    "type": "kuji",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-25T13:10:48Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:4wob536xrdpwxjp6drnpq4bl/post/3mwdtsy4yus2b",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "bca537a017d67412",
-   "type": "event",
-   "title": "ちいかわポップアップストア謎の茨城開催あってアツいけどその日ひしるしは茨城にいない",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-25T12:59:04Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:uzri4zs7nqkatkjffhlhdhda/post/3mwdt5z5wns25",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
