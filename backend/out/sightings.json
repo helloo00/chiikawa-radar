@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-06T16:48:03Z",
+ "generated_at": "2026-10-06T22:39:02Z",
  "items": [
+  {
+   "id": "a2e2aabdaad6927a",
+   "type": "restock",
+   "title": "ちいかわぷくちゅるシール、枯れてたのに再入荷で４台稼働してた 今回は気合い入ってるねパレードさん👍 他のガチャもこんな感じでお願いしますよ",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "シール",
+   "date": "2026-10-06T18:06:46Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ycju2hjbo7sx3akq2hj7k67d/post/3mx7zieacwc2y",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "f03e8099c673a8e0",
    "type": "restock",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-28T02:10:41Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:vsashxfszrcs5imc2lyfbobl/post/3mwkadf5bzq2t",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "5381b6ca346d8405",
-   "type": "restock",
-   "title": "ちいかわちゃん島二郎のデスクトップフィギュアが欲しくて梅田のヨドバシ行ったけど入荷されておらず… らんどは入店60分待ち😂  ヨドバシなら入荷数多そうなんだけど、いつ入荷になるかわからない…情報出るのってバンダイ商品だけなのかな？",
-   "summary": null,
-   "chain": null,
-   "area": "梅田",
-   "itemName": "フィギュア",
-   "date": "2026-09-28T01:29:02Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:j7osvf3en4gm3vms3hojeqxu/post/3mwk5yv5pz22h",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
