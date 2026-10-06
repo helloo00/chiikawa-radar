@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-10-06T01:17:40Z",
+ "generated_at": "2026-10-06T08:57:44Z",
  "items": [
+  {
+   "id": "13e370c6ebb2c246",
+   "type": "event",
+   "title": "2026年11月28日 『ポップアップ卓上 ちいかわ（2027年1月始まりカレンダー）』  (エンスカイ) [Book] https://sinkan.net/isbn/4970381219826 #新刊情報 #sinkan",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-06T08:41:05Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:smdkfx7db3pbvkdfwidns4rv/post/3mx6zutsnrs27",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "b779be77c6ac99a5",
+   "type": "news",
+   "title": "Minisoで売ってるちいかわはパチモンじゃなくて公式でライセンス契約しているらしいのだが、そこで買ったら自分を裏切るような気がして… 日本で爆買いしたい。",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-06T03:35:46Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:wju7hp5izockowr2oenewef3/post/3mx6isutvps2c",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "7d30ac5877b5ee8e",
    "type": "event",
@@ -2970,36 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.6
-  },
-  {
-   "id": "ec5afde3826aa7ad",
-   "type": "news",
-   "title": "ちいかわコミックどこにも売ってない。Kindleはなんか…イヤー！",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-27T05:20:12Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:zgaaygvr6p7g36dukpgaqtc2/post/3mwi2hdqx622q",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "52d6e217ef504a48",
-   "type": "restock",
-   "title": "たまーに覗くと 少しずつ入荷されてる ちいかわグッズ  なんかつい買ってしまった うさぎのシャーペン🖋️   #ちいかわ #うさぎ #シャーペン",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-27T05:10:41Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:5z6vdpyywyb2szfrlbg5ai3q/post/3mwhzwdio5q25",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
   }
  ]
 }
