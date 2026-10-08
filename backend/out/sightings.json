@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-07T19:58:34Z",
+ "generated_at": "2026-10-08T00:11:43Z",
  "items": [
+  {
+   "id": "350b93904ad7e30b",
+   "type": "event",
+   "title": "ちいかわ、ロンドンの百貨店でポップアップ開催　世界進出が止まらないってコト!? kai-you.net/article/96772",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-07T23:08:26Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:kg6pjgvvyv3kmsxmigoe2qqs/post/3mxd2sp253k2p",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "c612b9696f4e9265",
    "type": "sighting",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-29T03:54:24Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:utrivtjljunwc3wvqbtlinte/post/3mwmwlqqhrk2f",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "d7fc9244671363a8",
-   "type": "event",
-   "title": "ちいかわベーカリーのポップアップショップ原宿にあるのか",
-   "summary": null,
-   "chain": null,
-   "area": "原宿",
-   "itemName": null,
-   "date": "2026-09-29T03:40:02Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:qyxwm7f72wjm2vdogcstejbt/post/3mwmvs2o33k2u",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
