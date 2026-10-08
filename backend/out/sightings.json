@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-08T13:26:52Z",
+ "generated_at": "2026-10-08T19:56:29Z",
  "items": [
+  {
+   "id": "65e5933df2538367",
+   "type": "sighting",
+   "title": "りなです💕💕 いつものドラッグストアに行ったら、ちいかわのアイライナー売ってた😍 私はブラック派なので、ちいかわだけしか買わない予定が、推しのモモンガちゃんのビジュが可愛すぎて貢いでしまった…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-08T14:35:12Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:75hrdqr3diktk7bfmnqw7xpb/post/3mxeolukby22t",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "e34902e2e8476af7",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-09-30T15:00:14Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4905096253254",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "1ae0acc0055b6486",
-   "type": "release",
-   "title": "ちいかわ ピクチュアパズル（なかよしだ）",
-   "summary": "販売元: エポック社 タイプ: パズル 価格: 880 ちいかわたちが35ピースのパズルになりました。 ※対象年齢 4歳以上 サイズ（約）：H320×W375×D5mm 重さ（約）：400ｇ 材質：紙 製造地：日本",
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-30T15:00:13Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4905096253094",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
