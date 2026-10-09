@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-10-08T19:56:29Z",
+ "generated_at": "2026-10-09T00:21:58Z",
  "items": [
+  {
+   "id": "180ba3a5c58778c0",
+   "type": "news",
+   "title": "ちいかわ図書カード可愛い…  hello.toshocard.com/limited_edit...",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-08T21:39:52Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ivy475pz42cp3le6ci6tb35c/post/3mxfgdas55k2u",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "13f61e8c2031a4d0",
+   "type": "news",
+   "title": "ちいかわのガチャ系のグッズがどの店も少なくなってきてる ラメアクリルキーホルダー200円で置いてあるとか奇跡になりつつある 映画ちいかわのガチャのポーチとかラメアクリルキーホルダーなんかショーケースに入れられてたよ ちいかわめじるし２のうさぎが1500円で売られてた😫",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "キーホルダー / ポーチ",
+   "date": "2026-10-08T20:09:02Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ycju2hjbo7sx3akq2hj7k67d/post/3mxfbat6wes2n",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "65e5933df2538367",
    "type": "sighting",
@@ -2970,36 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "ee8f5e74b90012e9",
-   "type": "release",
-   "title": "デカワレ届くの楽しみ🐱 人気商品は全部受注生産にしちゃえば本当に欲しい人みんな買えるのになぁ 転売ヤー滅だわ(՞⸝⸝o̴̶̷̥᷅  ̫ o̴̶̷̥᷅⸝⸝՞)滅  ＃ちいかわ ＃ちいかわマーケット ＃パラレルワールド ＃デカワレ ＃ハチワレ",
-   "summary": null,
-   "chain": "ちいかわらんど",
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-01T00:37:47Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:rht2yg3ju44yafx4ffqbrf2e/post/3mwrmjyxlxc2o",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
-  },
-  {
-   "id": "c0c71361ddd14dc9",
-   "type": "release",
-   "title": "ちいかわ アニメ『ちいかわ』ピクチュアパズル（なかまいっぱい）",
-   "summary": "販売元: エポック社 タイプ: パズル 価格: 880 63ピースの雲形パズルです。台紙付きの子ども用パズルです。 ※対象年齢 5歳以上 サイズ（約）：（完成時）H320×W375×D5mm 重さ（約）：400g 材質：紙 製造地：日本",
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-09-30T15:00:14Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4905096253254",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
   }
  ]
 }
