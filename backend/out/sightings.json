@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-15T16:59:14Z",
+ "generated_at": "2026-10-15T21:21:18Z",
  "items": [
+  {
+   "id": "f8fdba04dc759de4",
+   "type": "sighting",
+   "title": "俺はお金がないのでちいかわグッズは2つしか持ってない。手芸店で110円で売ってたやつ。両方ちいかわ",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-15T20:58:52Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:vuhneqg2h4nzjwigyec2u4rq/post/3mxwxcepaak27",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "5b7b6f999861f58d",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-06T13:36:08Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:v5dewwidixwkndsrtb733am2/post/3mx7kefpzes2r",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "a241ade9a8362d52",
-   "type": "news",
-   "title": "帰りに寄ったスーパーでちいかわのランダムステッカー売っててつい買っちゃったわよ",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-06T12:54:01Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:ynqoslgwx6spmbc7suff7d4o/post/3mx7hz454i22b",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
