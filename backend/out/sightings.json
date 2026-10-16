@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-16T13:14:19Z",
+ "generated_at": "2026-10-16T18:02:25Z",
  "items": [
+  {
+   "id": "d12e16abeafb0641",
+   "type": "sighting",
+   "title": "ちいかわのあのこが好き🫶🏻 来月GUから、あのこのマシュマロフィールが出るらしいんだけど、買えるかなぁ 売り切れる前に買えたらいいな",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-16T13:30:57Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ilsmqqxnu63lfftvrxfix5xy/post/3mxyoqdztcs2b",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "a70322d4524898a9",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-08T04:51:18Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:qyxwm7f72wjm2vdogcstejbt/post/3mxdnxs2r2s2j",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "4c089c366e7adc82",
-   "type": "news",
-   "title": "昨日ちいかわベーカリー2時間待って14時に入場したら完売でパン1個も買えなかったので、同じ建物内のドンクで買って帰りました。パンの口になっていたし。 グラタンパンと芋のテカテカしたパン。おいしかった。  #昼ごはん",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-08T03:16:58Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:erxd6oollzqlzua4opr4jg4x/post/3mxdip4i24c2y",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
