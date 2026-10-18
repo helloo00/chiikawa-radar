@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-17T22:16:44Z",
+ "generated_at": "2026-10-18T00:04:41Z",
  "items": [
+  {
+   "id": "46b8869ee8ac048d",
+   "type": "restock",
+   "title": "ちいかわ ライトスティックチャーム 取扱い店はどこ？コンビニは？配列や再販売まとめ！フラゲは？イオン、ローソンも！全8種類！  puchipurabu.com/lightcharm-c...  #食玩　#ちいかわ 10月26日（月）より発売  ●プラスチック完成品一式（全8種）…",
+   "summary": null,
+   "chain": "ローソン",
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-18T00:02:59Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:f2joffbnr6rzqtdwjeoxmmw5/post/3my4cjgvehc2y",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.6
+  },
   {
    "id": "0019580c5e8c916c",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-08T09:00:41Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4571609346630",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "bf82b35c84108a8b",
-   "type": "release",
-   "title": "ちいかわ ちいかわ寿司 フレークシール（お寿司なみんな）",
-   "summary": "販売元: グレイ・パーカー・サービス タイプ: ステッカー・マステ 価格: 495 サイズ（約）： シール：H25×W25mm以内 パッケージ：H95×W90mm 内容：シール8柄×各3枚＝計24枚 材質：紙、PP 製造地：日本",
-   "chain": null,
-   "area": null,
-   "itemName": "シール",
-   "date": "2026-10-08T09:00:41Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4571609346616",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
