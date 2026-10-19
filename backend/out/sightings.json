@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-19T19:54:42Z",
+ "generated_at": "2026-10-19T23:39:18Z",
  "items": [
+  {
+   "id": "4cda4d5539d5d2bd",
+   "type": "news",
+   "title": "おはようございます！  まだまだ眠気が残る時間ですね…🥱  昨日は甘くて美味しいパンケーキや優雅なモーニングをいただいて、美味しいものをたくさん食べられてよかったです😋✨ 摂取カロリーは気になりますが…笑  ちいかわグッズも昨日は色々買えて大変満足です😆  ところですごーく眠く…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-19T22:08:01Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:cakz5unfteh225yaflpiq7gk/post/3myb4zp6h2s2q",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "0b42951ab15322a0",
    "type": "event",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-09T02:00:53Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4571609351351",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "d7f7d8a1b78ba704",
-   "type": "restock",
-   "title": "ちいかわ 映画ちいかわ GPSBOX セイレーンだらけフィギュア（全6種）【2026年12月上旬以降、入荷次第の順次発送（発送延期の場合もキャンセル不可）】",
-   "summary": "販売元: グレイ・パーカー・サービス タイプ: フィギュア 価格: 1320 - 7920 (2 variants) 【必ずお読みください】 ◆「セイレーンだらけフィギュア」は、12月上旬頃より順次発送を予定しております。 ◆本商品と他の商品を同じカートでご注文された場合は、12月上旬以降に発送いたします。 ◆他の商品をお早めにお受け取りになりたい場合は、お手数ですが本商品とその他の商品を分けてご注文いただきますようお願いいたします。 ◆ご注文確定後の分割発送やキャンセルは承ることができません。あらかじめ内容をご確認の上、ご注文をお願いいたします。 ◆一部の店舗では販売中の場合がございます。 ※単品はランダム仕様となっており、種類はお選びいただけません。 ※単品は複数ご購入の場合、同じ種類が出たり、ご希望の種類が出ない場合もございます。 ※BOX購入時、全種必ずコンプリートしていただけます。 ※重量パーツ（GPSBOXと書かれている黒いブロック）が入っている場合がございます。 サイズ（約）： 本体：H76×W80×D80mm以内 台座：H11×W70×D80mm 個箱：H120×W74×D74mm BOX：H125×W230×D153mm 材質： フィギュア：PVC 台座：MABS 製造地：中国",
-   "chain": null,
-   "area": null,
-   "itemName": "フィギュア",
-   "date": "2026-10-09T02:00:52Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4571609404590",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
