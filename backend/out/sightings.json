@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-10-21T13:46:36Z",
+ "generated_at": "2026-10-21T18:37:27Z",
  "items": [
+  {
+   "id": "ba99c35f5245a1d8",
+   "type": "news",
+   "title": "イベントの情報収集をXでしていたけど勝手に表示されなくなったりと不便すぎて🌀ちいかわのポプショ明日からなの忘れてたよ…仕事終わって予約取ってグッズ買えるかな…？鎧さんがラインナップにいるステッカーをBOXしようと思うけど枯れそうな気がしている。",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-21T14:28:09Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:g5iyff3afgyv7yxdld4f43ad/post/3myfebawjjc2j",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "d16e1d5d5c59bdcc",
+   "type": "event",
+   "title": "フリー入場になったナガノマーケットのポップアップで、欲しかった「かぼちゃ頭なくまマスコット」を無事GET❤️🎃  ちいかわポップアップは品薄状態らしいので、次はちいかわ寿司ポップアップに行きたいな🍣🍵  ただ整理券取得タイミングの関係で土日じゃないと行けそうにないので、行けずじ…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "マスコット",
+   "date": "2026-10-21T14:10:23Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:afsyd6y7oshjrtx45nknkq7e/post/3myfdbhykqk2w",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "5cd740f3d7644833",
    "type": "restock",
@@ -2970,36 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.6
-  },
-  {
-   "id": "917d53f7f590554f",
-   "type": "event",
-   "title": "やっと地元にちいかわポップアップ来たから整理券貰いに来たけどもう13時で泣いちゃった",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-10T00:50:22Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:uhnx24x4rlm5hhollfkruama/post/3mxibgs4wrs2v",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "0e576827f2831529",
-   "type": "event",
-   "title": "どこかのあきら 「ちいかわ知ってます」食い気味 きょういくばんぐみTシャツ（ポップアップショップTシャツ/プレミア品）",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": "Tシャツ",
-   "date": "2026-10-09T23:13:37Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:jwy3r5bnmehf5e5guxjsg3ol/post/3mxi3zss5ac2g",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
   }
  ]
 }
