@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-10-21T07:37:27Z",
+ "generated_at": "2026-10-21T13:46:36Z",
  "items": [
+  {
+   "id": "5cd740f3d7644833",
+   "type": "restock",
+   "title": "ふりふりヘッドのガチャはさすがに今日は見つからず😭  ブックキーホルダーは入荷があったので『プルャ氏』を回収🎵  途中立ち寄ったリサイクルショップでかわいいおちいとハチの缶バッジを300円でゲット👍✨  #ちい活 #ちいかわ",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "キーホルダー / 缶バッジ",
+   "date": "2026-10-21T10:15:55Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:vuhmd2f2pb2uhjsamtuljnc3/post/3myew67rmos2a",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "b2b3617669ba9ccd",
+   "type": "news",
+   "title": "紀伊国屋でちいかわのカレンダー見つけて買おうと思って手に取ったら結構サイズでかくてリュックにも入らなそうだったから、レジ近くで売られてた紀伊国屋のスクエアトートも一緒に買ったんだけどこれ無かったらマジで詰んでた🫠",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-21T09:44:49Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:hz5ykughnkwe7qllkvd2tisp/post/3myeuglrrts2d",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "f3fcb1714c33ddde",
    "type": "restock",
@@ -2970,36 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "73c86698d6d249ca",
-   "type": "event",
-   "title": "最近ちいかわにプチハマり中なので ちいかわのポップアップストアにちょっかいをかけに行きます",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-09T22:22:03Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:x6xinunbtdm5ro4fymijzy3e/post/3mxhz5llxqs2h",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "e9b6ed108668944b",
-   "type": "news",
-   "title": "こちらも届きました！ちいかわのハチワレだらけマスコット残りの二種！ 左のは、すでにローソンでゲット済みなので、これでやっと全部揃いました！ というわけで記念にパチリ。",
-   "summary": null,
-   "chain": "ローソン",
-   "area": null,
-   "itemName": "マスコット",
-   "date": "2026-10-09T17:22:53Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:x5dtwiuf2w2oqb7t6mwhavxj/post/3mxhignhzqk2j",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
