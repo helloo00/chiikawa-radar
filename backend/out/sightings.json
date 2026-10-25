@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-24T22:28:04Z",
+ "generated_at": "2026-10-25T04:38:39Z",
  "items": [
+  {
+   "id": "c5b15152aaac3d54",
+   "type": "news",
+   "title": "お？ちいかわは喧嘩売ってんのか？？エアライダーで対戦してぼくのあまりのド下手糞さにドン引きさせてやってもいいんだぞ…？周回遅れになった挙句意図せず逆走してやるよ…。",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-25T02:37:42Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:7xl5uvwui2oedksaux6dx7oz/post/3myo6gkfxws2s",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "2f3dd147ea999ee1",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-15T09:00:17Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4582751119324",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "90f187d0a78edc49",
-   "type": "release",
-   "title": "ちいかわ Chiikawa Baby トレーディングPVCぷっくりキーホルダー（全8種）",
-   "summary": "販売元: グレイ・パーカー・サービス タイプ: キーホルダー 価格: 550 - 4400 (2 variants) サイズ（約）： 本体：H45×W40mm以内 BOX：H92×W75×D75mm 材質：PVC、鉄 製造地：中国 ※単品はランダム仕様となっており、種類はお選びいただけません。 ※単品を複数ご購入の場合、同じ種類が出たり、ご希望の種類が出ない場合もございます。 ※BOXをご購入いただいても、8種類全種がそろわない場合もございます。ご了承ください。",
-   "chain": null,
-   "area": null,
-   "itemName": "キーホルダー",
-   "date": "2026-10-15T09:00:17Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4571609375821",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
