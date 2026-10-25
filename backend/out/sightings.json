@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-25T11:24:54Z",
+ "generated_at": "2026-10-25T16:15:30Z",
  "items": [
+  {
+   "id": "56d5ebb7acd390d5",
+   "type": "event",
+   "title": "今月地元にちいかわのポップアップストアが来たから色々買ってしまった人間です、はい。",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-25T13:31:44Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:depllgam4mksus3vvo7oicgk/post/3mypcy2djls2m",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "a0638c78cb82dacc",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-15T12:45:35Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:vbsl7umf7rrecycap4rilghs/post/3mxw3qd7sos2b",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "fd1740df35177167",
-   "type": "news",
-   "title": "ちいかわの3巻どこにも売ってないのですがどこで手に入れられますか",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-15T12:09:48Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:47av5picqsykwdayjlobw5np/post/3mxvzqdeols2o",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
