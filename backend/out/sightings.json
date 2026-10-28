@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-28T16:37:02Z",
+ "generated_at": "2026-10-28T22:33:18Z",
  "items": [
+  {
+   "id": "47d67dc49a6dd3df",
+   "type": "event",
+   "title": "本日のちい活  まじちいぬい ポップアップストア ちいかわもち オリオン書房 A6ノート＆クリアファイル セリア ペンケース ダイソー 消しゴム＆ボールペン ビックカメラ ヒトフタのクリアカード イオンシネマ",
+   "summary": null,
+   "chain": "イオン",
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-28T16:46:26Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:cb4ibs2q7sw7cxlmuz5j6kbx/post/3myx7axf5k22n",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.6
+  },
   {
    "id": "b0be6dd93f34c609",
    "type": "sighting",
@@ -2985,21 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.6
-  },
-  {
-   "id": "ed8c75f628f12962",
-   "type": "news",
-   "title": "カーオーディオのAUXにヘッドフォン出力を直接叩きこんでたけどどうも弱いので 色々調べたところ 途中にトランスかませ、ってことで、 昼に秋葉原まで (用事のついで) ちいかわグッズ売ってる電子部品屋さんにて確保 組み立ててみた (ケースはうちに転がってた100均のやつ)  結果…",
-   "summary": null,
-   "chain": null,
-   "area": "秋葉原",
-   "itemName": null,
-   "date": "2026-10-17T11:44:11Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:wp22nptrnx3ykafbxzlik5fu/post/3my2zaelnqc2f",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
   }
  ]
 }
