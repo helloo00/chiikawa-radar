@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-10-30T12:52:19Z",
+ "generated_at": "2026-10-30T19:20:19Z",
  "items": [
+  {
+   "id": "0764dc5873a108f3",
+   "type": "restock",
+   "title": "ちいかわのふりふりヘッドフィギュア、またタイミングが合わず... 再入荷2回目なのに出会えないって運が悪すぎる😢 再入荷繰り返してるのに１日もたないとかまだまだ足りてないよパレードさん😭",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "フィギュア",
+   "date": "2026-10-30T14:37:10Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ycju2hjbo7sx3akq2hj7k67d/post/3mz3yxni7wk2j",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "f74f80482dd3ca29",
+   "type": "news",
+   "title": "I got Chiikawa 2027 Comic Design Calendar. fedibird.com/@nilab/11753...",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-30T14:19:21Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:6np6r2nksglgxqhkorj7elfj/post/3mz3xxsgo322m",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "4bb9a4e66c98396b",
    "type": "event",
@@ -2970,36 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "b2b3617669ba9ccd",
-   "type": "news",
-   "title": "紀伊国屋でちいかわのカレンダー見つけて買おうと思って手に取ったら結構サイズでかくてリュックにも入らなそうだったから、レジ近くで売られてた紀伊国屋のスクエアトートも一緒に買ったんだけどこれ無かったらマジで詰んでた🫠",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-21T09:44:49Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:hz5ykughnkwe7qllkvd2tisp/post/3myeuglrrts2d",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "f3fcb1714c33ddde",
-   "type": "restock",
-   "title": "ちいかわらんども近くにあったから寄ったら映画の首振りﾌｨｷﾞｭｱが入荷してたのでとりあえず並んで上限2回回したら両方ももんがちゃんではぴはぴ~やった~",
-   "summary": null,
-   "chain": "ちいかわらんど",
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-21T07:36:46Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:vho6qshgiuxjobw6vdghidjt/post/3myenbmwxa22p",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
