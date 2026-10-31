@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-10-31T18:32:55Z",
+ "generated_at": "2026-10-31T23:22:28Z",
  "items": [
+  {
+   "id": "71fe44ed8a117568",
+   "type": "news",
+   "title": "ちいかわクリスマスマーケット、、、チケット販売から荒れてるんやったら、クリスマスマーケット当日はもっと荒れるんやろな... 1時間辺り300〜600人やったら、キャパにもよるけど、どこも混雑するし、何も買えず食べれず終わりそう（妄想 座る所無いってことになって... トイレ無い…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-10-31T22:35:03Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:i7xl75wvy3tjjzni2mnhlccx/post/3mz7e53fgok2r",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "9cfaf4dc9832eb35",
    "type": "news",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-22T09:00:41Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4582662959347",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "4234cb495a39d895",
-   "type": "release",
-   "title": "ちいかわ ちいかわレストラン コックさんなぬいぐるみおかおバッジ3個セット",
-   "summary": "販売元: グレイ・パーカー・サービス タイプ: バッジ 価格: 2640 サイズ（約）：各H80×W70×D25mm 材質：ポリエステル、PS、鉄 製造地：中国",
-   "chain": null,
-   "area": null,
-   "itemName": "ぬいぐるみ",
-   "date": "2026-10-22T09:00:40Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4582662944374",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
