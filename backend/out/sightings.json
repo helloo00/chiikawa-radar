@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-03T21:47:02Z",
+ "generated_at": "2026-11-04T02:18:57Z",
  "items": [
+  {
+   "id": "ce105a5d0ce8c532",
+   "type": "news",
+   "title": "AHSの計らいで恐らく通販に切り替えるんだろな。このやり方じゃあまりに買えないファンが不憫だ(私含め) そんなわけで群がった転売屋共はただの無駄足だったね。早く滅びろよ。 普通に考えてなんでぬいぐるみを買い占めに赴いてんだ？馬鹿だろ。  そもそも個数制限ないらしいし公式側もヤバ…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "ぬいぐるみ",
+   "date": "2026-11-04T01:16:12Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:zdhj2utg2kc57evbinser636/post/3mzh6jzcz3c2q",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "a32e70a83d799195",
    "type": "sighting",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-23T09:56:48Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:i5fx6sl2l3jvzq4hhwbw7bwm/post/3myjvzuc2uc2a",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "1b08fe6760e87242",
-   "type": "sighting",
-   "title": "古本屋さんとちいかわ(売り切れだった)以外買えた！！！ 俺ってこの時のために楽天ポイントを4000も貯めとったんやね",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-23T08:58:45Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:lj5wm6hfqeeecfiflauelnti/post/3myjss3eum22l",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
