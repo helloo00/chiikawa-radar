@@ -1,6 +1,51 @@
 {
- "generated_at": "2026-11-04T12:06:21Z",
+ "generated_at": "2026-11-04T19:43:42Z",
  "items": [
+  {
+   "id": "d96c651ce13a7612",
+   "type": "news",
+   "title": "うさぎ（ちいかわ）の動くツリーがほしいんだけど、抽選販売で買えるかわかんなくて涙",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-04T13:06:03Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:3bb2qblokngur7b6po4lwckh/post/3mzig7delvc2a",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "5bd6480b980d4e57",
+   "type": "event",
+   "title": "イオンモール倉敷に「ちいかわ」のポップアップストアがやってきた！ 「ちいかわPOP UP STORE」が開催中です。  イオンモール倉敷に『 ちいかわPOP UP STORE 』が来てる！大盛況。【 岡山県倉敷市水江１ 】#1 examplex.hatenadiary.com/…",
+   "summary": null,
+   "chain": "イオン",
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-04T12:17:27Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:3c74rwjdstbxcgh7okioucge/post/3mzidig2z4c2v",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.6
+  },
+  {
+   "id": "fbb949f0b6fafc17",
+   "type": "release",
+   "title": "古参アピどころか、わりと最近の今年3月に発売された9090コラボのちいかわのマスコットも怖くてバッグに付けられない。フリマサイトですごい値段で売られてるもん。",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "マスコット",
+   "date": "2026-11-04T12:11:48Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:p3i75gpiiak4tphpgremete7/post/3mzid6dgyx22h",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "a43b29e3bdec1159",
    "type": "news",
@@ -2955,51 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "726093e47834c618",
-   "type": "sighting",
-   "title": "30日の宙組の全国ツアーの公演チケット取れなかった😢 ずんちゃーん！！！ ちいかわのANAコラボ買えたから仕方ないんやけど、少し悲しい。。 東京から遠征組が多かったんやろな。 こってぃさんの分は、のんたんが取ってくれた。 このお金をこってぃさんに回そう。うん。そうしよう",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-23T13:14:43Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:i7xl75wvy3tjjzni2mnhlccx/post/3mykb3rmyez2d",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "4a851cbc11c0afcb",
-   "type": "news",
-   "title": "【今日の幸せ🍀】  今朝の猫さん毛繕いバージョンでございます しっかりと綺麗にされておりました✨  カラーカードはホワイトでした 白＝スッキリのイメージです リフォームした事によって片付けをしたため、スッキリした今の家と重なる部分があります！さすがラッキーカラー🤍  いつもの日…",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-23T13:05:14Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:xbjyzplfk7edubqs36hxduxw/post/3mykaktfhas25",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "28963b60d01747f5",
-   "type": "news",
-   "title": "ファミマでちいかわの流れ星グミを発見 黒い流れ星のグミがはいっているかも？喜んで良いのだろうか？フューチャーオーノー",
-   "summary": null,
-   "chain": "ファミリーマート",
-   "area": null,
-   "itemName": "グミ",
-   "date": "2026-10-23T12:30:47Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:5nq63ky7rdg7vcpp57qdypky/post/3myk6n7zdts27",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
