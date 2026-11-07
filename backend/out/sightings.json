@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-07T01:55:04Z",
+ "generated_at": "2026-11-07T08:45:50Z",
  "items": [
+  {
+   "id": "c3cd6d5a4fc1e8d2",
+   "type": "news",
+   "title": "ちいかわの真名（HN）がモナ王であることを知る →モナ王の自動販売機がある映画館へちいかわを見に行く →モナ王が全種類売り切れていて買えない →モナ王のお供として買ったカフェラテを虚しく飲みながら映画を楽しむ →特典は島二郎（2度目） →近くの席のお子さんの「めっちゃ良かった」…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-07T07:04:31Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:bwu5ha4dutm475oz5ff3a6ea/post/3mzpdfmbyys2i",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "b378ba342b43ef49",
    "type": "event",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-28T01:55:08Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:3ngctrbwae4f5yhrkkcyogrv/post/3myvnh6sls22t",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "03caee78f0ba0260",
-   "type": "restock",
-   "title": "youtube.com/shorts/5wYXs... 欲しかったガチャ入荷遅れてるから欲しい色を確認しとこ ちいかわコインシリンダーの裏側の絵柄を見れるのは助かる～☺️",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-27T17:33:22Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:ycju2hjbo7sx3akq2hj7k67d/post/3myurfx6gsk2q",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
