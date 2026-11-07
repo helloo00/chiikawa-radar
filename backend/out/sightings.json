@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-07T16:24:56Z",
+ "generated_at": "2026-11-07T21:47:49Z",
  "items": [
+  {
+   "id": "50fac1c816e3a4b4",
+   "type": "sighting",
+   "title": "ちいかわ沢山買えた",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-07T18:07:52Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ovovfwwlu4m2tscs4yyjttty/post/3mzqihrvsks2i",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "5f39a9709e0e387f",
    "type": "event",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-29T04:31:46Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:nv5ussvamwlfa5bettecwhzk/post/3myygo6ocps2f",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "70837b691a715109",
-   "type": "news",
-   "title": "情報ありがとうございます！めっちゃ助かります！😭💕 そっか転売目的の可能性があるんですね……「だよね！みんな欲しいよね！」って思っちゃってましたwww ポケカはめちゃめちゃ厳重というか、結構面倒な手順踏まないと買えないのに、って感じですねー (比べるものではないけど、ちいかわを…",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-29T03:49:26Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:gj3gauu5s5b3uujhyu7o3cvb/post/3myyecjwmkv2z",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
