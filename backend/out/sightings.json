@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-08T16:39:24Z",
+ "generated_at": "2026-11-08T22:01:30Z",
  "items": [
+  {
+   "id": "a93959bbbe9b229d",
+   "type": "restock",
+   "title": "たべものいっぱいマスコットとデスクトップフィギュアの再入荷がまだまだ続くそう 映画ちいかわのガチャはいくら作っても足りないと思うからどんどん作ってほしい 海外需要もあるから作りすぎて余ったのならアジア圏内でも輸出すればすぐ完売しそうではある パレードさんいっぱい量作ってくれるか…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "マスコット / フィギュア",
+   "date": "2026-11-08T19:17:38Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ycju2hjbo7sx3akq2hj7k67d/post/3mzt4th4yxs2f",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "f37c728ccbd42696",
    "type": "sighting",
@@ -2985,21 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "8306c54f052a8a35",
-   "type": "release",
-   "title": "ちいかわ ニードルフェルトでつくるちいかわ（ちいかわ）",
-   "summary": "販売元: ハマナカ タイプ: キット 価格: 858 アクレーヌという繊維をニードル針で形を整えながら形にする手芸キットです。 思わず手のひらにのせたくなる可愛さ、柔らかさに癒されること間違いなし。 全員揃えて並べてみるのもオススメです！ ※「ニードルフェルト ミニマムスターターセット」が必要です。 サイズ： 出来上がり：約H65mm（耳をのぞく） パッケージ：約H210×W130×D20mm 重さ： 出来上がり：約10g パッケージ：約45g 材質：アクリル100％ 製造地：日本",
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-29T09:01:04Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4977444265127",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
   }
  ]
 }
