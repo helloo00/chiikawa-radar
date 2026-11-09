@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-08T22:01:30Z",
+ "generated_at": "2026-11-09T01:43:02Z",
  "items": [
+  {
+   "id": "8aec5e380c456079",
+   "type": "news",
+   "title": "（何か見た） GUのちいかわセーター可愛いけど、お値段で買うの迷ってたんだけど、8000円のパーカーが高いか普通か、みたいな論争をＸで見てしまってうわ…ってなってしまった。  あの…ね、本当、住んでる地域によって格差があるんだ。最低賃金に。分かってるよ。全国平均で見たら、住んで…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-09T01:05:54Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:nv5b7g6lyxa2lpq56vou7nmr/post/3mztqc7efr22k",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "a93959bbbe9b229d",
    "type": "restock",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-29T09:32:00Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:i5fx6sl2l3jvzq4hhwbw7bwm/post/3myyxh2die22y",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "9bfab9a7f762ba8f",
-   "type": "restock",
-   "title": "やったー！再販分買えた！ chiikawamarket.jp/products/457...",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-29T09:29:27Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:xgfht7l3uhv3n6l22pbil4mr/post/3myyxciqihk23",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
