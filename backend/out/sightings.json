@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-10T20:48:18Z",
+ "generated_at": "2026-11-11T01:55:17Z",
  "items": [
+  {
+   "id": "1686bb5d72aa91db",
+   "type": "news",
+   "title": "旦那が、ちいかわのPOPUPに向けて車で旅立った。 私が、心斎橋のちいかわらんどで買えなかったから、会社を休んで行ってくれる事に。。。私よりガチのちいかわ好きになってしまったから、まー、当たり前か（笑） 実家の近くで庭な位置なので、まー、楽には行けるけど、人がどんだけ来るのか謎…",
+   "summary": null,
+   "chain": "ちいかわらんど",
+   "area": "大阪",
+   "itemName": null,
+   "date": "2026-11-10T21:41:58Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:i7xl75wvy3tjjzni2mnhlccx/post/3mzyftf66xc2t",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.6
+  },
   {
    "id": "9a8d40bac6dc5c23",
    "type": "restock",
@@ -2982,21 +2997,6 @@
    "date": "2026-10-30T03:28:55Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:fv5fjuyntzn6f3yxnd4sgohb/post/3mz2tmpnb5k2w",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "e00159b8f036b47a",
-   "type": "restock",
-   "title": "ちいかわステッキガシャ引けたので、中に入れるやつも欲しい 昨日1店舗で両方入荷して即日完売しちゃったから、もう1店舗で入荷しないか待ってる まあ入荷の前に🐶が起きそうだから外出出来なさそう",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-10-30T02:34:27Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:occ3dq6la55rd5cs7omkbg7d/post/3mz2qld4ks22s",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
