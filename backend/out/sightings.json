@@ -1,6 +1,36 @@
 {
- "generated_at": "2026-11-13T17:43:14Z",
+ "generated_at": "2026-11-13T23:31:13Z",
  "items": [
+  {
+   "id": "b6bcc0491c8934ae",
+   "type": "sighting",
+   "title": "ちいかわグッズ、整理券取れても完売って続いてる。夢にでも出るようになっちまったよ（笑） 整理券抽選頑張るけど、整理券取れて行っても、、、 買えたらラッキーって思うようにしないとあかんようになっちまった。 過酷すぎる... 今いるちいかわ達を愛でるしかないか。中堅〜古参の購買意欲…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-13T22:37:53Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:i7xl75wvy3tjjzni2mnhlccx/post/3n2a2e4x2nc2b",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
+  {
+   "id": "6f0aef34c183e11a",
+   "type": "restock",
+   "title": "都会の方はちいかわめじるしの再入荷多いのずるいなぁ その都会ですら30分も経たずに枯れてしまう 本当に永遠に作り続けないとほしい人に届かないのでは... 田舎にも在庫回ってきてほしい😖 300円じゃ利益ないというのであれば500円に値上げしもらっても構わない",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-13T19:20:26Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:ycju2hjbo7sx3akq2hj7k67d/post/3n27pd2z5ok23",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "803e5a17709c030e",
    "type": "news",
@@ -2970,36 +3000,6 @@
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
-  },
-  {
-   "id": "fb12b4e0c00cbba0",
-   "type": "sighting",
-   "title": "ちいかわの星のグミ売ってたのでお昼ご飯と一緒にレジへ🌟 かわいい～",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": "グミ",
-   "date": "2026-11-05T03:37:09Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:iho2gtpli2mqmqb4b6vg244k/post/3mzjwuxsj2s2j",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "0142ea194cded0e9",
-   "type": "restock",
-   "title": "10月29日（木）にちいかわマーケットで再入荷したグッズのうち、いまも買えるものが50点あります。  ニードルフェルトでつくるちいかわ（7種）、あみぐるみキット（6種）、おしりなぬいぐるみ（ちいかわ・ハチワレ）、フラワーガーデンのスプーンなどです。 https://toubat…",
-   "summary": null,
-   "chain": "ちいかわらんど",
-   "area": null,
-   "itemName": "ぬいぐるみ",
-   "date": "2026-11-05T02:49:06Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:76kzhhx6gorviehunm22oh6i/post/3mzju7362v42l",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.6
   }
  ]
 }
