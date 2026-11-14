@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-14T15:02:48Z",
+ "generated_at": "2026-11-14T20:42:21Z",
  "items": [
+  {
+   "id": "d186f48d926ac2d8",
+   "type": "news",
+   "title": "ちいかわのこのぬいぐるみ、ブラインドなので全4種揃えようと思ったら最低でも8個は買わないと難しいじゃないですか  それが2個しか買えないのはどうなの？？？？？ 4匹揃えさせないのはどうかと思うの ブランドって推しが出るまでチャリンチャリン買う物なので、数量限定にするなら1.5倍…",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": "ぬいぐるみ",
+   "date": "2026-11-14T15:33:22Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:jijncre6h4qs6dbwldjyuuge/post/3n2bt3xegd22v",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "da738bac73d3f798",
    "type": "event",
@@ -2982,21 +2997,6 @@
    "date": "2026-11-06T00:40:05Z",
    "sourceName": "Bluesky",
    "sourceURL": "https://bsky.app/profile/did:plc:ogcphsz3jssxza7bb54ssboy/post/3mzm5hbj5zk2l",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.4
-  },
-  {
-   "id": "157df3834ad3d64b",
-   "type": "news",
-   "title": "羽田に着いたらANAのショップにすごい勢いで人が並んでて、何が売ってるんだ……！？と思ってちらっと列の先を見たけど、これはもしかして……ちいかわの列……！？！？！？！？",
-   "summary": null,
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-11-05T23:14:46Z",
-   "sourceName": "Bluesky",
-   "sourceURL": "https://bsky.app/profile/did:plc:3vtygqkut5ho3jvfl6kk27g2/post/3mzlyopqu5k2s",
    "latitude": null,
    "longitude": null,
    "confidence": 0.4
