@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-15T17:07:45Z",
+ "generated_at": "2026-11-15T22:47:30Z",
  "items": [
+  {
+   "id": "8184f0e188c9d0db",
+   "type": "release",
+   "title": "今週の金曜日から、ちいかわの内蔵が発売されるの楽しみ 1日5個しか買えないから毎日買いに行かないとね",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-15T21:41:54Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:4c43j2kggxe3akhsu4gbiyqa/post/3n2ey5uexkc2k",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "07b4fca35d421f2d",
    "type": "release",
@@ -2982,21 +2997,6 @@
    "date": "2026-11-06T02:00:46Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4570189212496",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "6185ae44725a4ce1",
-   "type": "release",
-   "title": "ちいかわ ぬくぬくソックス ちいかわ ピンク 23-25cm",
-   "summary": "販売元: トーキング タイプ: 靴下 価格: 2200 光を熱に変える発熱素材で、足元じんわりあったか。 内側ふわふわパイル＆ゆったり履き口で、おうち時間をもっと快適に。 ちいさめキャラ刺繍がかわいいぬくぬくソックスです♡ サイズ（約）：23～25cm 材質：アクリル70％、ポリエステル28％、ポリウレタン2％ 製造地：中国",
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-11-06T02:00:45Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4570189207706",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
