@@ -1,6 +1,21 @@
 {
- "generated_at": "2026-11-22T17:48:52Z",
+ "generated_at": "2026-11-22T23:35:25Z",
  "items": [
+  {
+   "id": "26a1ae0bc7bfb918",
+   "type": "news",
+   "title": "＃ちいかわ 映画の時みたいな全世界売切れじゃなくて、普通に9巻買えました 最強ハチワレ見るの楽しみだわ",
+   "summary": null,
+   "chain": null,
+   "area": null,
+   "itemName": null,
+   "date": "2026-11-22T21:48:08Z",
+   "sourceName": "Bluesky",
+   "sourceURL": "https://bsky.app/profile/did:plc:myqi524mnrqww2momp7tv2zh/post/3n2wlrhjvos2f",
+   "latitude": null,
+   "longitude": null,
+   "confidence": 0.4
+  },
   {
    "id": "f421c0838abd738e",
    "type": "restock",
@@ -2982,21 +2997,6 @@
    "date": "2026-11-13T02:00:06Z",
    "sourceName": "ちいかわマーケット",
    "sourceURL": "https://chiikawamarket.jp/products/4550213594798",
-   "latitude": null,
-   "longitude": null,
-   "confidence": 0.85
-  },
-  {
-   "id": "01446c89b78fe344",
-   "type": "release",
-   "title": "ちいかわ キャラパキ charapaki my rich ～あまおう苺～",
-   "summary": "販売元: バンダイ（キャンディ） タイプ: 価格: 257 甘酸っぱいあまおう苺味のパフ入りチョコレート×ホワイトチョコレートです。 甘みと酸味のバランスが良い『あまおう苺』は、ついつい何度も食べたくなる美味しさ！ 表情豊かなちいかわたちのお顔デザインに加え、全身デザインもラインナップしたチョコは全20種類！ どのキャラクターが出てくるかは、開けてからのお楽しみです♪ 個包装入りなので1個ずつ食べられます。 サイズ（約）：H170×W150mm 内容：準チョコレート5枚 重さ（約）：47g 製造地：日本 賞味期限：2027年7月31日",
-   "chain": null,
-   "area": null,
-   "itemName": null,
-   "date": "2026-11-13T02:00:04Z",
-   "sourceName": "ちいかわマーケット",
-   "sourceURL": "https://chiikawamarket.jp/products/4570117931741",
    "latitude": null,
    "longitude": null,
    "confidence": 0.85
